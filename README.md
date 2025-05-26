@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/iftahnaf.png" width="120" style="border-radius:50%;" />
-</p>
 
 <h1 align="center">Iftach Naftaly 🤖</h1>
 <p align="center">
