@@ -1,11 +1,11 @@
 
 <h1 align="center">Iftach Naftaly 🤖</h1>
 <p align="center">
-  Robotics · Cloud · PX4 · ROS 2 · AI DevOps
+  Robotics · Cloud · PX4 · ROS 2 · DevOps
 </p>
 
 <p align="center">
-  🚀 Robotics Engineer | Cloud DevOps for Drones | Open Source Contributor <br>
+  🚀 Robotics Engineer | Robotics DevOps | Open Source Contributor <br>
   Passionate about PX4, ROS 2, simulation infra, and AI-driven autonomy
 </p>
 
