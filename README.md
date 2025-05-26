@@ -1,24 +1,37 @@
-# Iftach Naftaly 🤖
-
-## Contact
-
-[![Email: Iftach](https://img.shields.io/badge/-EMail-purple?style=flat-square&logo=Proton&logoColor=white&link=iftahnaf@proton.me)](mailto:iftahnaf@proton.me)
-[![Linkedin: Iftach](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/in/iftach-naftaly-159075146/)](https://www.linkedin.com/in/iftach-naftaly-159075146/)
-
-
-
-## Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,c,matlab,ros,docker,cpp," />
-  </a>
+<p align="center">
+  <img src="https://github.com/iftahnaf.png" width="120" style="border-radius:50%;" />
 </p>
 
-## Stats
-[![Iftach's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftahnaf&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Iftach Naftaly 🤖</h1>
+<p align="center">
+  Robotics · Cloud · PX4 · ROS 2 · AI DevOps
+</p>
 
+<p align="center">
+  🚀 Robotics Engineer | Cloud DevOps for Drones | Open Source Contributor <br>
+  Passionate about PX4, ROS 2, simulation infra, and AI-driven autonomy
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftahnaf&exclude_repo=PX4-user_guide,grepros,autonomousDrone,PX4-Autopilot,opencv_tutorials,ardupilot&langs_count=8&hide=HTML,JavaScript,CSS&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="mailto:iftahnaf@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/iftach-naftaly-159075146/"><img src="https://img.shields.io/badge/LinkedIn-iftachnaftaly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/iftahnaf"><img src="https://img.shields.io/badge/GitHub-iftahnaf-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-[![GitHub Iftach](https://img.shields.io/github/followers/iftahnaf?label=follow&style=social)](https://github.com/iftahnaf)
-![visitors](https://vbr.nathanchung.dev/badge?page_id=iftahnaf.iftahnaf&color=00cf00)
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ros,matlab,docker,vscode" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftahnaf&show_icons=true&theme=onedark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftahnaf&exclude_repo=PX4-user_guide,grepros,autonomousDrone,PX4-Autopilot,opencv_tutorials,ardupilot&langs_count=8&hide=HTML,JavaScript,CSS&hide_progress=true&layout=compact&theme=onedark" width="340"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/iftahnaf"><img src="https://img.shields.io/github/followers/iftahnaf?label=GitHub%20Followers&style=social"></a>
+  <img src="https://vbr.nathanchung.dev/badge?page_id=iftahnaf.iftahnaf&color=00cf00" alt="visitors"/>
+</p>
