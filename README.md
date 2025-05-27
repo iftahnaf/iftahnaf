@@ -25,9 +25,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iftahnaf&show_icons=true&theme=onedark" width="400"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftahnaf&theme=onedark" width="400"/>
 </p>
-
----
-
-<p align="center">
-  <a href="https://github.com/iftahnaf"><img src="https://img.shields.io/github/followers/iftahnaf?label=GitHub%20Followers&style=social"></a>
-</p>
