@@ -1,4 +1,3 @@
-
 <h1 align="center">Iftach Naftaly 🤖</h1>
 <p align="center">
   Robotics · Cloud · PX4 · ROS 2 · DevOps
@@ -15,13 +14,14 @@
   <a href="https://github.com/iftahnaf"><img src="https://img.shields.io/badge/GitHub-iftahnaf-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,ros,matlab,docker,vscode" height="40"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftahnaf&show_icons=true&theme=onedark" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftahnaf&theme=onedark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iftahnaf&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iftahnaf&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
