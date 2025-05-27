@@ -30,5 +30,4 @@
 
 <p align="center">
   <a href="https://github.com/iftahnaf"><img src="https://img.shields.io/github/followers/iftahnaf?label=GitHub%20Followers&style=social"></a>
-  <img src="https://vbr.nathanchung.dev/badge?page_id=iftahnaf.iftahnaf&color=00cf00" alt="visitors"/>
 </p>
