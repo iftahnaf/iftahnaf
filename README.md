@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftahnaf&show_icons=true&theme=onedark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftahnaf&exclude_repo=PX4-user_guide,grepros,autonomousDrone,PX4-Autopilot,opencv_tutorials,ardupilot&langs_count=8&hide=HTML,JavaScript,CSS&hide_progress=true&layout=compact&theme=onedark" width="340"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftahnaf&theme=onedark" width="400"/>
 </p>
 
 ---
